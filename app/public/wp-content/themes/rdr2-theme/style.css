@@ -1,0 +1,26 @@
+/*
+Theme Name: RDR2 Theme
+Description: Een simpel WordPress thema over Red Dead Redemption 2.
+Author: Mees van Aalten
+Version: 1.0
+*/
+
+/* Basis */
+body {
+    margin: 0;
+    font-family: Georgia, serif;
+    background: #f1e6d0;
+    color: #2b1d14;
+    line-height: 1.6;
+}
+
+a {
+    color: #8b0000;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
