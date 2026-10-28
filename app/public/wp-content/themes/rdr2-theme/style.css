@@ -24,3 +24,29 @@ a {
     padding: 0 20px;
 }
 
+/* Header en menu */
+.site-header {
+    background: #8b0000;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.site-header a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+.site-title {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+/* Footer */
+.site-footer {
+    background: #2b1d14;
+    color: #f1e6d0;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 40px;
+}
